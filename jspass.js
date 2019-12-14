@@ -35,7 +35,7 @@ function generatorService() {
 
     if(!isNaN(chars)){
       if(chars>0 && chars<1001){
-        if(chars<7){warn('May god have mercy on your email account.');}
+        if(chars<7){warn('May god have mercy on your email account.');} // totally not a PAP reference ;)
         if(chars>100){warn("You're 100% gonna need a password manager for this.");}
 
         prompt('How many passwords do you want to generate? (max 100)\n>', function(passwordsData){
