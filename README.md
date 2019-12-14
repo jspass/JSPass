@@ -15,3 +15,9 @@ Optional dependencies:
 We never post releases, instead the source code is our release. 
 
 Download the source code as a .zip file, then extract it anywhere. Alternatively, if you have git, you can type `git clone https://github.com/jspass/JSPass.git` to download the source code of JSPass.
+
+# Usage
+cd into JSPass and type ``node jspass.js`` to launch JSPass. 
+
+- First, it should prompt you to enter the amount of characters you want your password(s) to have. Enter any number from 1-1000.
+- Second, it should prompt you to enter the amount of passwords you want to generate. Enter any number from 1-100.
