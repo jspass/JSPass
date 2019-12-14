@@ -23,8 +23,6 @@ $ npm install chalk
 $ npm install winston
 ```
 
-JSPass is now ready to generate passwords.
-
 # Usage
 cd into JSPass and type ``node jspass.js`` to launch JSPass. 
 
