@@ -26,6 +26,8 @@ $ npm install winston
 # Usage
 cd into JSPass and type ``node jspass.js`` to launch JSPass. 
 
-- First, it should prompt you to enter the amount of characters you want your password(s) to have. Enter any number from 1-1000.
-- Second, it should prompt you to enter the amount of passwords you want to generate. Enter any number from 1-100.
+- First, it should prompt you to enter the amount of characters you want your password(s) to have. 
+  - Enter any number from 1-1000.
+- Second, it should prompt you to enter the amount of passwords you want to generate. 
+  - Enter any number from 1-100.
 
