@@ -1,6 +1,6 @@
 ![Logo](https://i.imgur.com/J2zetqf.png)
 
-JSPass Canary is a free & open-source node.js password generator that is secure and easy to use. JSPass is CLI-based and and generate up to 100 passwords being a max length of 1000 characters.
+JSPass Canary is a free & open-source node.js password generator that is secure and easy to use. JSPass is CLI-based and and generate up to 100 passwords being a max length of 1000 characters. Our canary versions are updated daily and sometimes even hourly. These versions are unstable. Please use them with caution.
 
 # Pre-Install Configuration
 Before installing JSPass, you must have the following dependencies:
