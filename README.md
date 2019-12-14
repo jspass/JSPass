@@ -10,11 +10,13 @@ Before installing JSPass, you must have the following dependencies:
 
 Optional dependencies:
 
-`git` (to download the source code, we never post releases)
+`git` (to download the source code)
 
 # Installation
-### Source code
+### Releases
+Go to this repository's releases and download a .zip file, then extract it. We cannot recommend enough that you download the latest version.
 
+### Source code
 Download the source code as a .zip file, then extract it anywhere. Alternatively, if you have git, you can type `git clone https://github.com/jspass/JSPass.git` to download the source code of JSPass.
 
 Now you need to add the node modules, cd into JSPass and type the following commands:
@@ -24,7 +26,7 @@ $ npm install winston
 ```
 
 # Usage
-cd into JSPass and type ``node jspass.js`` to launch JSPass. 
+cd into the folder you downloaded JSPass and type ``node jspass.js`` to launch JSPass. 
 
 - First, it should prompt you to enter the amount of characters you want your password(s) to have. 
   - Enter any number from 1-1000.
