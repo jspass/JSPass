@@ -1,16 +1,16 @@
 # JSPass
-JSPass is a node.js password generator that is secure and easy to use.
+JSPass is a free & open-source node.js password generator that is secure and easy to use.
 
 # Pre-Install Configuration
 Before installing JSPass, you must have the following dependencies:
 
 `nodejs` (Latest version is recommended)
 
-Once that is done, enter the following into your command prompt/terminal:
-```
-git clone https://github.com/jspass/JSPass.git
-```
-Then, `cd` into the directory, `JSPass`.
+Optional dependencies:
 
-# Running the script
-To run JSPass
+`git` (to download the source code, we never post releases)
+
+# Installation
+We never post releases, instead the source code is our release. 
+
+Download the source code as a .zip file, then extract it anywhere. Alternatively, if you have git, you can type `git clone https://github.com/jspass/JSPass` to download the source code of JSPass.
