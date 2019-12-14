@@ -16,14 +16,14 @@ Optional dependencies:
 ### Releases
 Go to this repository's releases and download a .zip file, then extract it. We cannot recommend enough that you download the latest version.
 
+The node modules that came with the release may be outdated, type ``npm outdated`` to check for any outdated packages. If there are any, type ``npm update --save/--save-dev`` to update them.
+
 ### Source code
 Download the source code as a .zip file, then extract it anywhere. Alternatively, if you have git, you can type `git clone https://github.com/jspass/JSPass.git` to download the source code of JSPass.
 
-Now you need to add the node modules, cd into JSPass and type the following commands:
-```
-$ npm install chalk
-$ npm install winston
-```
+The source code should include a .zip file named "node_modules.zip". Extract this .zip file into it's own folder.
+
+The node modules that came with the source code may be outdated, type ``npm outdated`` to check for any outdated packages. If there are any, type ``npm update --save/--save-dev`` to update them.
 
 # Usage
 cd into the folder you downloaded JSPass and type ``node jspass.js`` to launch JSPass. 
