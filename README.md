@@ -13,4 +13,4 @@ Optional dependencies:
 # Installation
 We never post releases, instead the source code is our release. 
 
-Download the source code as a .zip file, then extract it anywhere. Alternatively, if you have git, you can type `git clone https://github.com/jspass/JSPass` to download the source code of JSPass.
+Download the source code as a .zip file, then extract it anywhere. Alternatively, if you have git, you can type `git clone https://github.com/jspass/JSPass.git` to download the source code of JSPass.
