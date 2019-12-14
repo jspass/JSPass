@@ -1,4 +1,5 @@
-# JSPass
+![Logo](https://i.imgur.com/J2zetqf.png)
+
 JSPass is a free & open-source node.js password generator that is secure and easy to use. JSPass is CLI-based and and generate up to 100 passwords being a max length of 1000 characters.
 
 # Pre-Install Configuration
