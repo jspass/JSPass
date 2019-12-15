@@ -25,7 +25,7 @@ logger.log('info', chalk.greenBright("    | | `--. \\|  __// _` |/ __|/ __|"));
 logger.log('info', chalk.greenBright("/\\__/ //\\__/ /| |  | (_| |\\__ \\\\__ \\"));
 logger.log('info', chalk.greenBright("\\____/ \\____/ \\_|   \\__,_||___/|___/"));
 logger.log('info', '');
-logger.log('info', chalk.greenBright("The fast, open-source and secure password generator."));
+logger.log('info', chalk.greenBright("The fast, open-source and secure password generator for node.js."));
 
 function generatorService() {
   var possibleChars="ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890~!@#$%^&*()_+".split('');
