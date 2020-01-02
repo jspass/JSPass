@@ -32,4 +32,5 @@ cd into the folder you downloaded JSPass and type ``node jspass.js`` to launch J
   - Enter any number from 1-1000.
 - Second, it should prompt you to enter the amount of passwords you want to generate. 
   - Enter any number from 1-100.
+- Third, it should prompt you to specify the characters you want in your password(s) with letters (L=Letters,N=Numbers,S=Special; LNS is the default). This step is optional.
 
